@@ -1,4 +1,4 @@
-public class Methods_Functions {
+public class Topic_Methods_Functions {
     public static void helloMethod() {
         System.out.println("Hallo und Wilkommen!");
     }
